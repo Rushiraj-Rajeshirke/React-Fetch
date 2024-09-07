@@ -8,7 +8,7 @@ const Main = () => {
   return (
     <div className='main'>
       <div className='nav'>
-        <p>Gemini 1.0 Pro</p>
+        <p>Powered By Gemini</p>
         <img src={assets.user_icon} alt="user icon" />
       </div>
       <div className="main-container">
